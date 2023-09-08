@@ -1,0 +1,6 @@
+.*
+composer.lock
+/vendor/
+!.project.org
+!.gitignore
+.phpunit.result.cache
