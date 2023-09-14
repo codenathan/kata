@@ -7,6 +7,9 @@ use Kata\Index;
 
 class IndexTest extends TestCase
 {
+    private Index $index;
+
+    
     protected function setUp(): void
     {
         $this->index = new Index();
